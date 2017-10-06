@@ -1,0 +1,12 @@
+#circle {
+	width: 200px;
+	height: 200px;
+	border-radius: 50%;
+	background-color: blue;
+	display: none;
+	position: relative;
+}
+
+#timeTaken {
+	font-weight: bold;
+}
